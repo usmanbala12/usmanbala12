@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Artificial Intelligence.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usman-bala-usman-59b33b184/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-usman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usman-bala-usman-59b33b184/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
