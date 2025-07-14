@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :telescope: I’m working as a Software Engineer building web applications.
 
 - :seedling: Exploring Artificial Intelligence and Distributed Systems.
 
